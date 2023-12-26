@@ -1,3 +1,3 @@
-# jeff.github.io!
+# jeff.github.io
 
 My second project
